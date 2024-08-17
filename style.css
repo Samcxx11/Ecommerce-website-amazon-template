@@ -1,0 +1,447 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@400..700&family=Oswald:wght@300&family=Ubuntu&display=swap');
+
+
+
+*{
+    margin: 0;
+    border: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+body{
+  background-color: wheat;
+}
+
+.navbar{
+    height: 90px;
+    background-color: rgb(19, 25, 32);
+    display: flex;
+    cursor: pointer;
+    position:sticky;
+
+}
+
+.amzon{
+    position: relative;
+    bottom: 0px;
+    height: 90px;
+    left: 6px;
+}
+
+#locaic{
+    /* position: relative;
+    bottom: 42px; */
+    color: rgb(254, 254, 254);
+    position: relative;
+  bottom: -10px;
+  left: 9px;
+    /* left: 15px; */
+}
+
+.h2u{
+    color: rgb(255, 255, 255);
+    position: relative;
+  bottom: 4px;
+  left: 23px;
+  font-size: 19px;
+    /* position: relative;
+    bottom: 56px;
+    left: 193px;
+    font-size: 19px;
+    letter-spacing: 0.078em;
+    line-height: 1.1; */
+    }
+
+.box2{
+   
+    /* border: 2px solid white; */
+    width: 127px;
+  height: 81px;
+}
+
+
+.dle{
+    /* position: relative;
+  bottom: 95px; */
+  color: rgb(255, 255, 255);
+  position: relative;
+  bottom: -20px;
+  /* color: rgb(255, 15, 15); */
+  left: 28px;
+  /* left: 193px;
+  font-size: 19px;
+  line-height: 1.2;
+  letter-spacing: -0.021em;
+  font-weight: 100;
+  line-height: 1.1; */
+}
+
+.border{
+    border: 1.5px solid transparent;
+    height: 86px;
+    
+}
+
+.border:hover{
+    border: 1.5px solid rgb(255, 255, 255);
+}
+
+#cartico{
+  /* color: black; */
+  color: white;
+  position: relative;
+  top: 32px;
+  left: 11px;
+  height: 27px;
+  font-size: 26px;
+}
+
+.cartt{
+  color: white;
+  position: relative;
+  top: 32px;
+  left: 10px;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0.047em;
+}
+
+#mag{
+    color: rgb(0, 0, 0);
+    position: relative;
+  top: 31px;
+  left: 36px;
+  font-size: 20px;
+    background-color: #ffe300;
+  width: 27px;
+  margin: -15px;
+  padding: 10px;
+  border-radius: 7px;
+}
+
+#bruh{
+    position: relative;
+  top: 28px;
+  left: 32px;
+  height: 39px;
+  border-radius: 5px;
+  margin: -6px;
+}
+
+
+.inp-box{
+    position: relative;
+  top: 29px;
+  left: 31px;
+  width: 50vw;
+  height: 31px;
+}
+
+.dlee{
+  color: rgb(255, 255, 255);
+  position: relative;
+  top: 27px;
+  left: 3px;
+  font-size: 12px;
+  
+}
+
+
+.h2ue{
+  color: rgb(255, 255, 255);
+  position: relative;
+  top: 21px;
+  
+font-size: 20px;
+  line-height: 1.4; 
+  
+}
+
+.box3{
+  /* border: 2px solid white; */
+  /* border: 2px solid white; */
+  position: relative;
+  left: 67px;
+  width: 141px;
+  height: 83px;
+
+}
+
+.box4{
+  /* display: flex; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  position: relative;
+  left: 98px;
+  width: 135px;
+  height: 83px;
+}
+
+
+.mainw{
+  /* border: 2px solid white; */
+  position: relative;
+  left: 115px;
+  width: 134px;
+  height: 83px;
+}
+
+.red{
+  border: 2px solid orange;
+}
+
+.smallnav{
+  height: 4vh;
+  width: 100vw;
+  background-color: rgb(13, 26, 53);
+  border: 2px solid black;
+
+}
+
+#allico{
+  color: white;
+  position: relative;
+  left: 20px;
+  top: 6px;
+}
+
+.smnavli{
+  display: flex;
+  list-style: none;
+  display: flex;
+  list-style: none;
+  position: relative;
+  color: white;
+  bottom: 13px;
+  font-size: 20px;
+  line-height: 0.9;
+  letter-spacing: 0.055em;
+  font-weight: 300;
+  gap: 51px;
+  cursor: pointer;
+}
+
+.bgimg{
+  background-image: url(hero_image.jpg);
+  height: 71vh;
+  width: 100vw;
+
+}
+
+.blur{
+  position: relative;
+  background-color: black;
+  height: 75px;
+  width: 100vw;
+  bottom: 74px;
+  opacity: 27.1%;
+
+}
+
+.redirect{
+  height: 20px;
+  background-color: #f7f5f5;
+  width: 47vw;
+  color: black;
+  position: relative;
+  bottom: 299px;
+  left: 474px;
+  padding: 13px;
+  font-size: 16px;
+  line-height: 1.3;
+  letter-spacing: -0.004em;
+  font-weight: 300;
+  font-style: normal;
+  font-family: "Edu VIC WA NT Beginner", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.boxes{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  left: 299px;
+}
+
+.boxz1{
+  background-color: white;
+  border: 3px solid rgb(200, 255, 0);
+  height: 37vh;
+  width: 15vw;
+  position: relative;
+  right: 25vw;
+  bottom: 8vh;
+
+}
+
+.boxz2{
+  background-color: white;
+  border: 3px solid rgb(200, 255, 0);
+  height: 37vh;
+  width: 15vw;
+  position: relative;
+  right: 19vw;
+  bottom: 8vh;
+
+}
+
+.boxz3{
+  background-color:white;
+  border: 3px solid rgb(200, 255, 0);
+  height: 37vh;
+  width: 15vw;
+  position: relative;
+  right: 13vw;
+  bottom: 8vh;
+
+}
+
+.boxz4{
+  background-color: white;
+  border: 3px solid rgb(200, 255, 0);
+  height: 37vh;
+  width: 15vw;
+  position: relative;
+  right: 8vw;
+  bottom: 8vh;
+
+}
+
+
+.oboxes{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  left: 299px;
+}
+
+
+.boxz5{
+  background-color: white;
+  border: 3px solid rgb(200, 255, 0);
+  height: 37vh;
+  width: 15vw;
+  position: relative;
+  right: 25vw;
+  bottom: 2vh;
+
+}
+
+.boxz6{
+  background-color: white;
+  border: 3px solid rgb(200, 255, 0);
+  height: 37vh;
+  width: 15vw;
+  position: relative;
+  right: 19vw;
+  bottom: 2vh;
+
+}
+
+
+.boxz7{
+  background-color: white;
+  border: 3px solid rgb(200, 255, 0);
+  height: 37vh;
+  width: 15vw;
+  position: relative;
+  right: 13vw;
+  bottom: 2vh;
+
+}
+
+.boxz8{
+  background-color: white;
+  border: 3px solid rgb(200, 255, 0);
+  height: 37vh;
+  width: 15vw;
+  position: relative;
+  right: 8vw;
+  bottom: 2vh;
+
+}
+
+.btp{
+  color: white;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 5vh;
+  background-color: rgb(29, 29, 84);
+
+}
+
+.end{
+  background-color: #232F3E;
+  display: flex;
+  height: 34vh;
+  font-size: 20px;
+  line-height: 2;
+  letter-spacing: 0.054em;
+  font-weight: 200;
+  font-style: italic;
+  padding: 31px;
+  justify-content: space-evenly;
+  flex-wrap: nowrap;
+}
+
+
+ul{
+  color: white;
+}
+
+.end2{
+  background-color: #232F3E;
+  height: 10vh;
+
+}
+
+.logo2{
+    position: relative;
+    bottom: 0px;
+    height: 90px;
+    left: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo23{
+  height: 75px;
+  position: relative;
+  bottom: 84px;
+
+}
+
+.foot{
+  background-color: black;
+  color: white;
+  position: relative;
+  bottom: 91px;
+  height: 12vh;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+.lstm{
+  display: flex;
+  position: relative;
+  top: 22px;
+  right: 313px;
+
+}
+
+.bruh{
+  position: relative;
+  left: 143px;
+
+}
