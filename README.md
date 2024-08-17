@@ -12,32 +12,25 @@ Shady Deals: Discounts so good, they must be illegal.
 Mystery Shipping: Your order will arrive... eventually.
 Confusing UI: Navigating this site is like playing a horror game.
 Surprise Cart: Add one item, get three random ones!
-☠️ Installation
-Clone at your own peril:
 
-sh
-Copy code
-git clone https://github.com/yourusername/AmAznClone.git
-cd AmAznClone
 Run if you dare:
-
 sh
 Copy code
 npm install
 npm start
+
 🤡 Usage
 Brace Yourself: It's going to be a bumpy ride.
 Browse: Try to find what you need (good luck with that).
 Purchase: Proceed to checkout and cross your fingers.
 Wait: Delivery times are more of a suggestion than a promise.
-🪦 Contribution
-Got some broken features or bizarre ideas to add? Perfect! We welcome all contributions:
 
 Fork the repository.
 Create a new branch (git checkout -b feature/my-mistake).
 Commit your changes (git commit -m 'Add my mistake').
 Push to the branch (git push origin feature/my-mistake).
 Open a Pull Request.
+
 🕯️ License
 This project is licensed under the WTFPL - Do What the F*ck You Want to Public License. Because chaos reigns supreme.
 
